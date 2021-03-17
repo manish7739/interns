@@ -1,0 +1,18 @@
+.b1{
+    background-color: aquamarine;
+
+}
+.buttons{
+    margin: 5px;
+    height: auto;
+    
+}
+.form1{
+width: 300px;  
+/* align-content: center;  */
+margin-left: 500px;
+margin-top: 200px;
+display: flex;
+justify-content: center;
+
+}

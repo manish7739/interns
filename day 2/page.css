@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(29, 26, 26);
+    height: 90px;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float:right;
+list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+font-size: 20px;
+}
+.d1
+{
+    background-image: url('wall.jpg');
+}
